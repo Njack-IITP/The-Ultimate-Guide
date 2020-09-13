@@ -26,7 +26,9 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 8. Hashing
 9. Heaps and Maps
 10. Tree Data Structure
-11. Greedy
-12. Recursion and Backtracking
-13. Dynamic Programming
-14. Graphs 
+11. Binary Search Trees
+12. Greedy
+13. Recursion and Backtracking
+14. Dynamic Programming
+15. Graphs 
+16. Tries
