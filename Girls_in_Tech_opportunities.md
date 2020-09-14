@@ -5,11 +5,13 @@
 
 ## For 2nd year:
 
-1. [Microsoft Codess](https://acehacker.com/codess/): Codess is a community for female coders initiated by Microsoft. This organises a simple online coding test in early March. Registratios begin around February. 
+1. [Microsoft Codess](https://acehacker.com/codess/): Codess is a community for female coders initiated by Microsoft. This organises a simple online coding test in early March. Registrations begin around February. 
 2. [Google Women Techmaker](https://www.womentechmakers.com/scholars) - An academic scholarship, awarded based on academic performance, leadership, and impact on the community of women in tech. Applications period starts from March
+3. [Twitter DevelopHer](https://developher2020india.splashthat.com/)- A two day program for second-year and third-year women pursuing computer science where you get to participate in workshops, activities, and meet amazing women with similar passions. Applications start from July 
 
 ## For 3rd year:
 1. [Adobe Women In Tech ](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) - The scholarship will fund toward tuition fees for the remainder of the award recipient’s university education and provide opportunity for Summer Internship at Adobe India in 2021*.Application period begins in August.
+3. [Twitter DevelopHer](https://developher2020india.splashthat.com/)- A two day program for second-year and third-year women pursuing computer science where you get to participate in workshops, activities, and meet amazing women with similar passions. Applications start from July 
 
 
 ## Other Programmes
