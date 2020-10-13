@@ -1,5 +1,6 @@
 # List of opportunities/programmes for girls in Tech:
 
+
 ## For 1st year:
 1. [Google Women Techmaker](https://www.womentechmakers.com/scholars) - An academic scholarship, awarded based on academic performance, leadership, and impact on the community of women in tech. Applications period starts from March.
 
@@ -21,7 +22,7 @@
 3. [Google CodeJam IO](https://codingcompetitions.withgoogle.com/codejamio) : Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and reimbursement to offset travel expenses to Google I/O. Competition is expected to be organised in February.
 4. [She Codes by Indeed](https://she-codes.org/): She Codes is a national level coding program hosted by job search website Indeed and it focuses to bring spotlight on talented Indian Coders. It is a free contest open to all women students and professionals in India, the contest aims to bring out the best in programming talent in India. Registration begin in August.
 5. [Outreachy](https://www.outreachy.org/) : Outreachy internships are 3 months long. Interns are paid an internship stipend of $5,500 USD. Interns have a $500 USD travel stipend to attend conferences or events. It is organized twice a year. [Sign up for mailing list here](https://lists.outreachy.org/cgi-bin/mailman/listinfo/announce) or an announcement when the next internship round opens.
-6. [Grace Hopper Scholarship](https://ghc.anitab.org/): Grace Hopper Celebration (GHC) is the world’s largest gathering of women technologists. Learn, network, and be inspired as we work together to achieve intersectional gender and pay parity in tech.
+6. [Grace Hopper Scholarship](https://ghc.anitab.org/): Grace Hopper Celebration (GHC) is the world’s largest gathering of women technologists. Learn, network, and be inspired as we work together to achieve intersectional gender and pay parity in tech. You can add your resume [here](https://careercenter.anitab.org/) in the GHC and GHCI database, even if not attending conference.
 
 ## Scholarships:
 
