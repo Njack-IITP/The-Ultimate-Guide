@@ -1,4 +1,4 @@
-# Stacks, Queue, Deque
+# Stacks
 
 - [Stacks Introduction Video](https://www.youtube.com/watch?v=F1F2imiOJfk)
 - [Stacks tutorial](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
@@ -12,12 +12,15 @@
     5. [Reverse Polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
     6. [Valid Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
     
+# Queue
 
 - [Queue Introduction Video](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
 - [Queue Tutorial](https://www.geeksforgeeks.org/queue-data-structure/)
 
     ## Practice Problem:
     1. [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)
+
+# Deque
 
 - [Deque Tutorial](https://www.geeksforgeeks.org/deque-cpp-stl/)
     ## Practice Problem:
