@@ -37,10 +37,11 @@
 
 ## KMP
 
-- [Tutorial 1](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
-- [Tutorial 2](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
+- [Tutorial 1](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
+- [Tutorial 2](https://cp-algorithms.com/string/prefix-function.html)
 - [Video1](https://www.youtube.com/watch?v=KG44VoDtsAA)
 - [Video2](https://www.youtube.com/watch?v=cH-5KcgUcOE)
+
 
 ##### Practice Questions:
 1. [Test Your Understanding](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
@@ -67,6 +68,7 @@
 ##### Practice Questions:
 Most of the KMP problems can be solved using Robin Karp Algorithm but it is used less because  hashing will not be 100% deterministically correct, because two complete different strings might have the same hash (the hashes collide). [Read more here](https://cp-algorithms.com/string/string-hashing.html)
 
-
-- [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
-- [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
+1. [NHAY - A Needle in the Haystack](https://www.spoj.com/problems/NHAY/)
+2. [SUB_PROB - Substring Problem](https://www.spoj.com/problems/SUB_PROB/)
+3. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
+4. [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
