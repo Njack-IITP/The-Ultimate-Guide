@@ -42,6 +42,17 @@
 # Deque
 
 - [Deque Tutorial](https://www.geeksforgeeks.org/deque-cpp-stl/)
+    ## Implementation
+    ```
+        deque <int> A; // declares an empty deque.
+        A.push_back(newElement); // Pushes a new element at back of deque. O(1)
+        A.push_front(newElement); // Pushes a new element at front of deque. O(1)
+        A.size(); // size of deque O(1) 
+        A.front();   // Gives the front element O(1). 
+        A.back();    // Gives the back element O(1). 
+        A.pop_front();   // pop element from front O(1) 
+        A.pop_back(); // pop element from back O(1)
+    ```
     ## Practice Problem:
     1. [Design circular queue](https://leetcode.com/problems/design-circular-deque/)
     2. [Sliding window maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
