@@ -3,7 +3,17 @@
 - [Stacks Introduction Video](https://www.youtube.com/watch?v=F1F2imiOJfk)
 - [Stacks tutorial](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
 - [Infix, Prefix, Postfix](https://www.youtube.com/watch?v=jos1Flt21is)
+    
+    ## Implementation
+    ```
+            stack<int> A; // declares an empty stack. 
+            A.push(newElement); // Pushes a new element. O(1)
+            A.pop(); // pop  O(1)
+            A.empty() // check if stack is empty O(1) 
+            A.size(); // size of stack O(1) 
+            A.top(); // O(1). Gives the top element. 
 
+    ```
     ## Practice Problems:
     1. [Min Stack](https://www.interviewbit.com/problems/min-stack/)
     2. [Simplify Path](https://www.interviewbit.com/problems/simplify-directory-path/)
@@ -16,7 +26,16 @@
 
 - [Queue Introduction Video](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
 - [Queue Tutorial](https://www.geeksforgeeks.org/queue-data-structure/)
-
+    
+    ## Implementation
+    ```
+        queue<int> A; // declares an empty queue. 
+        A.push(newElement); // Pushes a new element. O(1)
+        A.pop(); // pop element O(1) 
+        A.empty() // check if stack is empty O(1)
+        A.size(); // size of queue O(1) 
+        A.front(); // Gives the first element O(1). 
+    ```
     ## Practice Problem:
     1. [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/)
 
