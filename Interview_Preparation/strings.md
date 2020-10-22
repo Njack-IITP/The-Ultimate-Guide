@@ -57,3 +57,16 @@
 ##### Practice Questions:
 1. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 2. [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+
+## Robin Karp Algorithm
+- [Tutorial](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+- [Rolling Hash](https://www.youtube.com/watch?v=BQ9E-2umSWc)
+- [Robin Karp Algorithm](https://www.youtube.com/watch?v=H4VrKHVG5qI)
+
+##### Practice Questions:
+Most of the KMP problems can be solved using Robin Karp Algorithm but it is used less because  hashing will not be 100% deterministically correct, because two complete different strings might have the same hash (the hashes collide). [Read more here](https://cp-algorithms.com/string/string-hashing.html)
+
+
+- [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
+- [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
