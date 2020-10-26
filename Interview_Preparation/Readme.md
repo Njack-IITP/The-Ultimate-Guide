@@ -35,3 +35,4 @@ Each topic contains some resources and problems to understand the topic. Try to 
 15. Dynamic Programming
 16. Graphs 
 17. Tries
+18. Maths
