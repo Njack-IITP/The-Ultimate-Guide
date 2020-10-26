@@ -16,19 +16,22 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 
 ## Common data structures and algorithms to prepare for interviews:
 
-1. Arrays and Vectors
-2. Strings
-3. Binary Search
-4. Bit Manipulation
-5. Two pointers
-6. Linked List
-7. Stack and Queues
-8. Hashing
-9. Heaps and Maps
-10. Tree Data Structure
-11. Binary Search Trees
-12. Greedy
-13. Recursion and Backtracking
-14. Dynamic Programming
-15. Graphs 
-16. Tries
+Each topic contains some resources and problems to understand the topic. Try to solve problems on your own at first. You might need to refer solution if you are doing it first time. After completing a topic from here, do practice some questions from leetcode(you can sort questions on basis of tags and difficulty) and proceed to next topic if you are confident.(Don't skip any topic).
+
+1. [STL](Standard_Template_Library_STL.md)
+2. Arrays and Vectors
+3. [Strings](strings.md)
+4. [Binary Search](binary_search.md)
+5. Bit Manipulation
+6. Two pointers
+7. Linked List
+8. [Stack and Queues](stacks.md)
+9. Hashing
+10. Heaps and Maps
+11. Tree Data Structure
+12. Binary Search Trees
+13. Greedy
+14. Recursion and Backtracking
+15. Dynamic Programming
+16. Graphs 
+17. Tries
