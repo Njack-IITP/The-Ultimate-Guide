@@ -19,20 +19,21 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 Each topic contains some resources and problems to understand the topic. Try to solve problems on your own at first. You might need to refer solution if you are doing it first time. After completing a topic from here, do practice some questions from leetcode(you can sort questions on basis of tags and difficulty) and proceed to next topic if you are confident.(Don't skip any topic).
 
 1. [STL](Standard_Template_Library_STL.md)
-2. Arrays and Vectors
-3. [Strings](strings.md)
-4. [Binary Search](binary_search.md)
-5. Bit Manipulation
-6. Two pointers
-7. Linked List
-8. [Stack and Queues](stacks.md)
-9. Hashing
-10. Heaps and Maps
-11. Tree Data Structure
-12. Binary Search Trees
-13. Greedy
-14. Recursion and Backtracking
-15. Dynamic Programming
-16. Graphs 
-17. Tries
-18. Maths
+2. [Arrays and Vectors](arrays.md)
+3. [Maths](Maths.md)
+4. [Strings](strings.md)
+5. [Binary Search](binary_search.md)
+6. Bit Manipulation
+7. Two pointers
+8. Linked List
+9. [Stack and Queues](stacks.md)
+10. Hashing
+11. Heaps and Maps
+12. Tree Data Structure
+13. Binary Search Trees
+14. Greedy
+15. Recursion and Backtracking
+16. Dynamic Programming
+17. Graphs 
+18. Tries
+
