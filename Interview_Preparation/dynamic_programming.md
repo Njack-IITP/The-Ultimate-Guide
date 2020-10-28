@@ -1,4 +1,4 @@
-# DYNAMIC PROGRAMMING
+# Dynamic Programming
 
 ## Basic introduction:
 
@@ -153,7 +153,7 @@ Now we end our discussion and move on to practice.
 3. [Finding Minimum-Cost Path in a 2-D Matrix](https://www.geeksforgeeks.org/min-cost-path-dp-6/)
 4. [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
 
-<b> Finding the number of ways to reach from a starting position to an ending position travelling in specified directions only and other interesting problems in<b> [hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/tutorial/)
+<b> Finding the number of ways to reach from a starting position to an ending position travelling in specified directions only and other interesting problems in</b> [hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/tutorial/)
 
 
 
