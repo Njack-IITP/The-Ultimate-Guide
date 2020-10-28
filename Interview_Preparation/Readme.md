@@ -16,7 +16,10 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 
 ## Common data structures and algorithms to prepare for interviews:
 
-Each topic contains some resources and problems to understand the topic. Try to solve problems on your own at first. You might need to refer solution if you are doing it first time. After completing a topic from here, do practice some questions from leetcode(you can sort questions on basis of tags and difficulty) and proceed to next topic if you are confident.(Don't skip any topic).
+<b> Note: </b>
+* Each topic contains some resources and problems to understand the topic. Try to solve problems on your own at first. You might need to refer solution if you are doing it first time. After completing a topic from here, do practice some questions from leetcode(you can sort questions on basis of tags and difficulty) and proceed to next topic if you understand the topic very well(Don't skip any topic).
+* Always check solution/discuss section after completing the question. You may find easier and better implementation.
+
 
 1. [STL](Standard_Template_Library_STL.md)
 2. [Arrays and Vectors](arrays.md)
@@ -24,7 +27,7 @@ Each topic contains some resources and problems to understand the topic. Try to 
 4. [Strings](strings.md)
 5. [Binary Search](binary_search.md)
 6. Bit Manipulation
-7. Two pointers
+7. [Two pointers](two_pointers.md)
 8. Linked List
 9. [Stack and Queues](stacks.md)
 10. Hashing
