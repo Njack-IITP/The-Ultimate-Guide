@@ -36,7 +36,7 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 13. Binary Search Trees
 14. Greedy
 15. Recursion and Backtracking
-16. Dynamic Programming
+16. [Dynamic Programming](dynamic_programming.md)
 17. Graphs 
 18. Tries
 
