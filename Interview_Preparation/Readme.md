@@ -38,5 +38,5 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 15. Recursion and Backtracking
 16. [Dynamic Programming](dynamic_programming.md)
 17. Graphs 
-18. Tries
+18. [Tries](tries.md)
 
