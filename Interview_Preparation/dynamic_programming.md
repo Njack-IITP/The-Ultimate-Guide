@@ -164,7 +164,7 @@ Now we end our discussion and move on to practice.
 
 1. [Longest common subsequence (LCS)](https://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/)
 2. [Longest increasing subsequence (LIS)](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
-3. [Edit Distance:](https://www.geeksforgeeks.org/edit-distance-dp-5/ )
+3. [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/ )
 4. [Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 5. [Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)
 6. [Longest path in matrix](https://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/ )
