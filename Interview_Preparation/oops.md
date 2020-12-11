@@ -31,4 +31,13 @@ Video tutorials for these would be shared after 3 days - this file would be upda
 
 PS: Graphs would be covered separately. 
 
+### Questions to take care of while following up with this guide:
+
+1. What was your project about? Why did you choose this project? What innovation did you bring to the project?
+2. What problems did you face while doing this project? How did you tackle them?
+3. What things do you believe you could have done better?
+4. What did you learn from the project? 
+5. What tech stack was used in the project? Why did you use this particular tool and why not something else, what advantage does it give?
+6. Was it a team project? If yes, were there any moments you and your teammates had a conflict of opinion? (Likely expected answer is yes). If so, How did you solve those conflicts?
+
 Don't hesitate to ask for help from your seniors, or just reply back to the mail in which this tutorial was sent. 
