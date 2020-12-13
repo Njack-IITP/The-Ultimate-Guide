@@ -31,6 +31,10 @@ Video tutorials for these would be shared after 3 days - this file would be upda
 
 PS: Graphs would be covered separately. 
 
+1. [Vector (dynamic array)](https://www.youtube.com/watch?v=ryRf4Jh_YC0) or [this one](https://www.youtube.com/watch?v=HN3tZaMcgkw)
+1. [Hashtable (unordered_set, unordered_map)](https://www.youtube.com/watch?v=2_3fR-k-LzI)
+
+
 ### Questions to take care of while following up with this guide:
 
 1. What was your project about? Why did you choose this project? What innovation did you bring to the project?
